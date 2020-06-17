@@ -3,4 +3,4 @@ Folder for Tin Dog Project
 
 Project Preview:
 
-![Project Preview](./images//project-preview.jpg)
+![Project Preview](./previews//project-preview.jpg)
